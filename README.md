@@ -33,6 +33,6 @@ Another project description goes here.
 -->
 ## 📫 Let's Connect!
 
-- LinkedIn: [https://www.linkedin.com/in/ajay-baghel-5673b62a6/]([https://www.linkedin.com/in/ajay-baghel-5673b62a6/])
+- LinkedIn: [Ajay Baghel](https://www.linkedin.com/in/ajay-baghel-5673b62a6/)
 
 Feel free to explore my projects and reach out. Happy coding! 🚀
