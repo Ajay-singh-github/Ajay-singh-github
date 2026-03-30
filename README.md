@@ -18,7 +18,7 @@ I'm a passionate web developer with a love for clean code and creative designs. 
 
 ## 🌱 Currently Learning
 
-- React Native
+Building Scalable Apps with React Native & Next.js
 
 
 ## 📂 My Projects
